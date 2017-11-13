@@ -2,3 +2,5 @@
 2 The line is add at dev branch
 3 The line is add by primebranch in step3.
 4 The line is add by primebranch in step5.
+5 The line is indicated the dev branch not finished!
+6 Return by stash command ,and merge to master
